@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPSStarterKit-Lite", "FPSStarterKit-Lite.csproj", "{69CA5C04-5349-F0A9-2CFB-A7BABADC447D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPSStarterKit-Lite.Editor", "FPSStarterKit-Lite.Editor.csproj", "{A5AF332D-193C-8555-6472-BAA30EB99203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69CA5C04-5349-F0A9-2CFB-A7BABADC447D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CA5C04-5349-F0A9-2CFB-A7BABADC447D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CA5C04-5349-F0A9-2CFB-A7BABADC447D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CA5C04-5349-F0A9-2CFB-A7BABADC447D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5AF332D-193C-8555-6472-BAA30EB99203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AF332D-193C-8555-6472-BAA30EB99203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AF332D-193C-8555-6472-BAA30EB99203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AF332D-193C-8555-6472-BAA30EB99203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

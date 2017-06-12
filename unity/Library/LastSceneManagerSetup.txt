@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FPS Starter Kit - Lite/Scenes/Demo.unity
+  isLoaded: 1
+  isActive: 1
