@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:7:22-63
+application
+ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:9:5-33:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\user\.android\build-cache\b4fb8a608edd87e68800b9460deae18ed794134c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user\.android\build-cache\99530ff108a0dd53771356df43fc7f07f75c27f7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\user\.android\build-cache\0e57dc890138e138662f103e2a1796f2f9342052\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\user\.android\build-cache\2b1ed8e4c061d0b6e9811ef6ba4300b7c7e7414f\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\user\.android\build-cache\81e2cbcf480d5e3fea432958f2f51aadcbe422fa\output\AndroidManifest.xml:22:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:2.0.1] C:\Users\user\.android\build-cache\7c296032967fdc564a372996d2161602f53187d5\output\AndroidManifest.xml:10:5-20
+MERGED from [com.github.asyl:ArcAnimator:v1.0.0] C:\Users\user\.android\build-cache\a12f33ba030d605ba84506f5eec4badc9bb58fa9\output\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.medyo:fancybuttons:1.8.1] C:\Users\user\.android\build-cache\18b09d4cb93f104177af11debd5c033da45cd682\output\AndroidManifest.xml:11:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\user\.android\build-cache\26acae9ffeb32bfe24df1a9fba40d2afd9d49610\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:14:9-40
+activity#tw.edu.ntu.csie.sahsb.vrfinal.Opening
+ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:17:13-50
+	android:name
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:16:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:21:27-74
+activity#tw.edu.ntu.csie.sahsb.vrfinal.MainActivity
+ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:24:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:26:13-50
+	android:name
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:25:13-70
+activity#tw.edu.ntu.csie.sahsb.vrfinal.MenuActivity
+ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:30:13-50
+	android:name
+		ADDED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml:29:13-70
+uses-sdk
+INJECTED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.4.0] C:\Users\user\.android\build-cache\b4fb8a608edd87e68800b9460deae18ed794134c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user\.android\build-cache\99530ff108a0dd53771356df43fc7f07f75c27f7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\user\.android\build-cache\0e57dc890138e138662f103e2a1796f2f9342052\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\user\.android\build-cache\2b1ed8e4c061d0b6e9811ef6ba4300b7c7e7414f\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\user\.android\build-cache\0317004b531d62425667b3971990d00ac4d8ce10\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\user\.android\build-cache\81e2cbcf480d5e3fea432958f2f51aadcbe422fa\output\AndroidManifest.xml:20:5-43
+MERGED from [com.github.ozodrukh:CircularReveal:2.0.1] C:\Users\user\.android\build-cache\7c296032967fdc564a372996d2161602f53187d5\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.asyl:ArcAnimator:v1.0.0] C:\Users\user\.android\build-cache\a12f33ba030d605ba84506f5eec4badc9bb58fa9\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.roger.match.library:library:1.0.1] C:\Users\user\.android\build-cache\5a88b106109913e1158eaf17f8c2bf018ab07f48\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.medyo:fancybuttons:1.8.1] C:\Users\user\.android\build-cache\18b09d4cb93f104177af11debd5c033da45cd682\output\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] C:\Users\user\.android\build-cache\26acae9ffeb32bfe24df1a9fba40d2afd9d49610\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user\.android\build-cache\99530ff108a0dd53771356df43fc7f07f75c27f7\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\fps-vr-android\app\src\main\AndroidManifest.xml

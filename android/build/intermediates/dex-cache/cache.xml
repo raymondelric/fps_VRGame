@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_af3ff41e4f7c1efd311bba3c56bce336f57a0db8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\5a88b106109913e1158eaf17f8c2bf018ab07f48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5950d7486a9458d812776ecf36ebbb5fe14488e3">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\classes_ab94404c7483f18188aa6106e07c22a189063fbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\a12f33ba030d605ba84506f5eec4badc9bb58fa9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac60f2bc5b7cb576aa065503568fafd1d85d0f75">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\classes_0a3dd9657575bdf26f4bd2053fc1ff5c067991d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.3.1\3ca9d0d53a27ecb88538ed874be417cfa827db5d\engine.io-client-0.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\engine.io-client-0.3.1_9178bcf01e6b6a2223e323f2cf4f3b8be85c5e19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\99530ff108a0dd53771356df43fc7f07f75c27f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\classes_6ce588f5a50a485974b72f422f5f36648a91967b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\81e2cbcf480d5e3fea432958f2f51aadcbe422fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\classes_b5a85dd301d1f95014e1d54ff38d0f9bce949f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\81e2cbcf480d5e3fea432958f2f51aadcbe422fa\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_bce2e507562e7464f47f2f652c6fc4a5c5d6476f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\Java-WebSocket-1.3.0_c9de1e73bd0622a887859deb7d55ad9be50858f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\b4fb8a608edd87e68800b9460deae18ed794134c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\classes_f2105f2cb8dfedd309e344a2c8fca274154a3fed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.3.0\8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9\socket.io-client-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\socket.io-client-0.3.0_4c89b68d5f7e65216d5f32076934676fce1acad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\18b09d4cb93f104177af11debd5c033da45cd682\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d2264766f0334470f9917ead03eab24c55c26c9">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\classes_972032f226b8b8dba5cc2f9739f6d889ddf249cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\26acae9ffeb32bfe24df1a9fba40d2afd9d49610\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\classes_bfaea7d058719bba10c7d608489febc9b473b5eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\0317004b531d62425667b3971990d00ac4d8ce10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\classes_14ed2c6a2d7bf833a246c6d50988f63f2843cd33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\0e57dc890138e138662f103e2a1796f2f9342052\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\classes_46c59731670981273f6702fdd4f95b6b3997cca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\library-2.4.0_7dcc3ac4a30f386c51d9582e4504072021db0ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\7c296032967fdc564a372996d2161602f53187d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ea06f21732a3f11bac13796ada56f100d1dd650">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\classes_5eab8731bd3ab991ca23d80c4ff1fde33845c276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\2b1ed8e4c061d0b6e9811ef6ba4300b7c7e7414f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\user\Desktop\CNL_android\CNL_team5_Android\app\build\intermediates\pre-dexed\debug\classes_0b2249cce30345ee0f24f43d7e731d2811880eeb.jar" />
+    </item>
+
+</items>

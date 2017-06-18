@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_frame.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\circle_frame.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\half_circle.xml",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\half_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider.xml",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\list_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cus_bullet.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\cus_bullet.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple.xml",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_frame_transparent.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\circle_frame_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\link.png",
+        "source": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\link.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ray.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\ray.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ultimate.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\ultimate.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\b4fb8a608edd87e68800b9460deae18ed794134c\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\people_button_size.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\people_button_size.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shooter.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\shooter.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\link.png",
+        "source": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\src\\main\\res\\drawable\\link.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\b4fb8a608edd87e68800b9460deae18ed794134c\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\b4fb8a608edd87e68800b9460deae18ed794134c\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\b4fb8a608edd87e68800b9460deae18ed794134c\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\b4fb8a608edd87e68800b9460deae18ed794134c\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_background.xml",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\weapon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\person_button_size.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\person_button_size.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\link.png",
+        "source": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\src\\main\\res\\drawable\\link.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gameover.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\gameover.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\b4fb8a608edd87e68800b9460deae18ed794134c\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightning.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\lightning.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\people.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\people.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uv_icon.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\uv_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\b4fb8a608edd87e68800b9460deae18ed794134c\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tank.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\drawable\\tank.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\b4fb8a608edd87e68800b9460deae18ed794134c\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\99530ff108a0dd53771356df43fc7f07f75c27f7\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    }
+]

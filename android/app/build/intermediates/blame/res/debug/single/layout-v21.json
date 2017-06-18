@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_tank.xml",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\layout-v21\\activity_tank.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_menu.xml",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\layout-v21\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_main.xml",
+        "source": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\src\\main\\res\\layout-v21\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_main.xml",
+        "source": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\src\\main\\res\\layout-v21\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_menu.xml",
+        "source": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\src\\main\\res\\layout-v21\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_main.xml",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\layout-v21\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_menu.xml",
+        "source": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\src\\main\\res\\layout-v21\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_menu.xml",
+        "source": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\src\\main\\res\\layout-v21\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_main.xml",
+        "source": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\src\\main\\res\\layout-v21\\activity_main.xml"
+    }
+]

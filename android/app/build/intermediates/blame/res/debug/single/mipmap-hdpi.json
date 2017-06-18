@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

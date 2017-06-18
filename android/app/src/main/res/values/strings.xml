@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VR-FPS controller</string>
+    <string name="shoot">Click to Shoot</string>
+    <string name="blue_transitionName">CoolTransition</string>
+</resources>

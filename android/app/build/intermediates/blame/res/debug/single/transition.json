@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_and_changebounds_sequential.xml",
+        "source": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\src\\main\\res\\transition\\slide_and_changebounds_sequential.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_and_changebounds_sequential_with_interpolators.xml",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\transition\\slide_and_changebounds_sequential_with_interpolators.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\explode.xml",
+        "source": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\src\\main\\res\\transition\\explode.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\explode.xml",
+        "source": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\src\\main\\res\\transition\\explode.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_and_changebounds.xml",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\transition\\slide_and_changebounds.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_and_changebounds_sequential_with_interpolators.xml",
+        "source": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\src\\main\\res\\transition\\slide_and_changebounds_sequential_with_interpolators.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_and_changebounds.xml",
+        "source": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\src\\main\\res\\transition\\slide_and_changebounds.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_and_changebounds_sequential.xml",
+        "source": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\src\\main\\res\\transition\\slide_and_changebounds_sequential.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_and_changebounds_sequential_with_interpolators.xml",
+        "source": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\src\\main\\res\\transition\\slide_and_changebounds_sequential_with_interpolators.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_with_arcmotion.xml",
+        "source": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\src\\main\\res\\transition\\changebounds_with_arcmotion.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_from_bottom.xml",
+        "source": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\src\\main\\res\\transition\\slide_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_from_bottom.xml",
+        "source": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\src\\main\\res\\transition\\slide_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_and_changebounds_sequential.xml",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\transition\\slide_and_changebounds_sequential.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\explode.xml",
+        "source": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\src\\main\\res\\transition\\explode.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_and_changebounds_sequential.xml",
+        "source": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\src\\main\\res\\transition\\slide_and_changebounds_sequential.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_with_arcmotion.xml",
+        "source": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\src\\main\\res\\transition\\changebounds_with_arcmotion.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_from_bottom.xml",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\transition\\slide_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\explode.xml",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\transition\\explode.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_and_changebounds.xml",
+        "source": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\src\\main\\res\\transition\\slide_and_changebounds.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_from_bottom.xml",
+        "source": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\src\\main\\res\\transition\\slide_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_with_arcmotion.xml",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\transition\\changebounds_with_arcmotion.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_and_changebounds.xml",
+        "source": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\src\\main\\res\\transition\\slide_and_changebounds.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_with_arcmotion.xml",
+        "source": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\src\\main\\res\\transition\\changebounds_with_arcmotion.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\transition\\slide_and_changebounds_sequential_with_interpolators.xml",
+        "source": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\src\\main\\res\\transition\\slide_and_changebounds_sequential_with_interpolators.xml"
+    }
+]

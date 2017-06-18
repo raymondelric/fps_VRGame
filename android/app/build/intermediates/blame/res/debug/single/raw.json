@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lightning_sound.mp3",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\raw\\lightning_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\die.wav",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\raw\\die.wav"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shoot.wav",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\raw\\shoot.wav"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hurt.wav",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\raw\\hurt.wav"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\link.wav",
+        "source": "C:\\Users\\user\\Desktop\\fps-vr-android\\app\\src\\main\\res\\raw\\link.wav"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\link.wav",
+        "source": "C:\\Users\\user\\Desktop\\VR_android\\VR_android\\app\\src\\main\\res\\raw\\link.wav"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\link.wav",
+        "source": "C:\\Users\\user\\Desktop\\CNL_android\\CNL_team5_Android\\app\\src\\main\\res\\raw\\link.wav"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bullet_sound.wav",
+        "source": "C:\\Users\\user\\Desktop\\tmp\\CNL_team5_Android\\app\\src\\main\\res\\raw\\bullet_sound.wav"
+    }
+]
